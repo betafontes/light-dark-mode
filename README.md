@@ -1,15 +1,42 @@
-# Card Dark-Mode 🌙
+<h1 align="center">Dark-Mode Card 🌙</h1>
 
-### About this Project:
-🔹In this project I made a card to put into practice the dark mode function
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
+<br>
 
-#### 🔹 Technologies Used:
+## 🚀 Tecnologias
+
+Esse repositório contém essas tais tecnologias :
+
 - HTML
 - CSS
 - JavaScript
 
-#### 🔹Interact with dark-mode:
-https://betafontes.github.io/light-dark-mode/
+## 💻 Projeto
+
+Neste projeto fiz um card para colocar em prática a função dark mode
+
+## 🖼️ Layout
+
+![image](https://github.com/betafontes/light-dark-mode/assets/70981960/6ce82eea-ebdc-4e21-b8d1-b52968e60eea)
+![image](https://github.com/betafontes/light-dark-mode/assets/70981960/faddf60f-1ad4-46dd-a8d8-f05832779d0c)
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+Feito com ♥ by betafontes :wave: 
 
 
